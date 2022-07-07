@@ -1,0 +1,155 @@
+.banner-area{
+    width: 100%;
+    height: 100vh;
+    background-image: url(images/donation2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-bottom: 100px;
+}
+.content-area{
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.hedding{
+    text-align: center;
+} 
+#color{
+    font-size: 100px;
+    color: orange;
+}
+#color-area{
+    font-size: 40px;
+    color: antiquewhite;
+}
+.link-button{
+    text-decoration: none;
+    background-image:linear-gradient(orange, tomato);
+    padding: 10px 40px;
+    color: white;
+    font: 40px;
+}
+.amount{
+      font-size:40px ;
+      text-align: center;
+      margin-bottom: 100px;
+}
+.batton{
+    font-size: 2em;
+    box-sizing: border-box;
+    margin-bottom: 1px;
+   height: 100%;
+}
+#amound{
+    text-align: center;
+}
+.taka{
+    width: 450;
+
+}
+.taka-amount{
+    width: 400px;
+    height: 100%;
+    position: relative;
+}
+.taka-amount input{
+    align-items: center;
+    text-align: center;
+    padding-top: 20px;
+    border: none;
+    width: 100%;
+    height: 100%;
+    border-bottom: 2px solid silver;
+    font-size: 17px;
+}
+.taka-amount label{
+    position: absolute;
+    bottom: 10px;
+}
+
+.donate-people{
+    margin-bottom: 150px;
+}
+.donate{
+ font-size: 50px;
+    text-align: center;
+    margin-bottom: 100px;
+}
+.food{
+    width: 400px;
+    margin:10px;
+    background-color: aqua;
+    box-sizing: border-box;
+}
+.food-family{
+    font-size: 2em;
+    text-align: center;
+}
+.food-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.food-shelter{
+    width: 400px;
+    margin: 10px;
+    background-color: pink ;
+    box-sizing: border-box;
+}
+.food-shelter-family{
+    font-size: 2em;text-align: center;
+}
+.education{
+    width: 400px;
+    margin: 10px;
+    background-color: wheat;
+    box-sizing: border-box;
+}
+.education-family{
+    font-size: 2em;
+    text-align: center;
+}
+
+.helping{
+    display: flex;
+    margin-bottom: 200px;
+}
+.half-width{ 
+    width: 100%;
+    padding-left: 5%;
+    justify-content: center;
+    text-align: center;
+    font-size: 2em;
+}
+.box-bd{
+    width: 600px;
+    background-color: antiquewhite;
+    border-radius: 10px;
+    padding: 100px;
+    box-shadow: 0px 0px 5px ;
+    bottom: 10px;
+    text-align: center;
+    justify-content: center;
+    margin-left: 30%;
+    margin-right: 20%;
+}
+.box{
+    text-align: center;
+    justify-content: center;
+    font-size: 2em;
+    margin-bottom: 100px;
+
+}
+  .footer{
+    text-align: center;
+    background-color: black;
+    font-size: 2em;
+
+  }
+  .footer h1{
+    color: red;
+  }
+  .footer p{
+    color: white;
+  }
